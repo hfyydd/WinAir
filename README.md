@@ -8,7 +8,9 @@
 [Compose for Desktop](https://www.jetbrains.com/lp/compose-desktop/)  利用kotlin 编写跨平台的声明式UI
 ## 用到的库
 [java-airplay-server](https://github.com/serezhka/java-airplay-server#java-airplay-server)
+
 [gstreamer](https://gstreamer.freedesktop.org/)
+
 其他用到的库 看build.gradle.kt文件里
 
 ## 最后
